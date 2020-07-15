@@ -1,0 +1,70 @@
+.one {
+	
+	width: 1200px;
+	height: 816px;
+	left: -242px;
+	top: -284px;
+	border-radius: 100%;
+
+background: linear-gradient(157.02deg, #9980FA 23.34%, #341F97 111.47%);
+}
+
+
+.two {
+	width: 420px;
+	height: 420px;
+	left: 190px;
+	top: -240px;
+	border-radius: 50%
+	background: linear-gradient(204.25deg, rgba(52, 31, 151, 0.13) 27.92%, #341F97 99.79%);
+}
+
+
+.three{
+	margin-top: 400px;
+	margin-left: 300PX;
+	width: 320px;
+	height: 380px;
+	left: 190px;
+	top: 164px;
+
+	/* SB / White */
+
+	background: #FFFFFF;
+	box-shadow: 6px 20px 40px rgba(0, 0, 0, 0.07);
+	border-radius: 30px;
+	background-image: url(../images/3948656-1.png);
+	background-repeat: no-repeat;
+	padding-left: 40px;
+	/* background-position: center;
+	background-size: contain; */
+}
+
+.four {
+	margin-top: 70px;
+}
+
+
+
+button {
+	margin:auto;
+	width: 130px;
+	height: 35px;
+	left: 1044px;
+	top: 45px;
+	background: linear-gradient(142.57deg, #FECA57 -11.88%, #FF9F43 67.35%);
+	border-radius: 7px;
+}
+
+
+
+
+
+.infinity {
+  border-radius: 50%;
+  overflow: hidden;
+  background: linear-gradient(#171b6e,#2732c6);
+  position: relative;
+  width: 100px;
+  height: 100px;
+}
